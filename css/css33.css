@@ -3,6 +3,10 @@
  * Origin: Video31.html ==> Modificar tipo de líneas
  */
 
+body {
+    background: #ff3;
+}
+
 section {
     margin: auto;
     position: relative;
